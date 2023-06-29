@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+This is the Hungrimind GitHub where most of the code for everything that comes with [Hungrimind Website](https://www.hungrimind.com).
+
+Everything Hungrimind produces is built and created by [Tadas Petra](https://github.com/tadaspetra).
+
+You can find what is currently happening on the [Hungrimind Project Board](https://github.com/orgs/hungrimind/projects/1/views/1)
+
+Feel free to contribute to any repo, and leave any issues you may be having!
+
 <!--
 
 **Here are some ideas to get you started:**
