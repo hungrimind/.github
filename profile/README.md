@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-This is the Hungrimind GitHub where most of the code for everything that comes with [Hungrimind Website](https://www.hungrimind.com).
+First things first: HUNGRIMIND HUNGRIMIND HUNGRIMIND!
 
-Feel free to contribute to any repo, and leave any issues you may be having!
+This is the home of all the code produced by the Hungrimind team ([Tadas](https://x.com/tadaspetra) and [Robert](https://x.com/RobertBrunhage)).
 
-<!--
+Our dream is to help you build stuff. We are trying to build a sustainable business (Hungrimind) so we can do this full-time. However, providing open-source resources is also at the core of our values.
 
-**Here are some ideas to get you started:**
+Most of the code we write is open for you to explore. Some of it is used within our course: [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+But there are also open source projects we work on:
+- [Flutter of the Year](https://github.com/hungrimind/flutter-of-the-year) - The largest collection of indie-built Flutter apps.
+- [Sync Test](https://github.com/hungrimind/sync_test) - A command line tool to sync your test files to your `lib` files.
+
+Feel free to contribute to any repo and leave an issue on any of the repos!
+
+To support us, you can purchase [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter) or [sponsor us on GitHub](https://github.com/sponsors/hungrimind).
