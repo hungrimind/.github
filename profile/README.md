@@ -9,7 +9,7 @@ Our dream is to help you build stuff. We are trying to build a sustainable busin
 Most of the code we write is open for you to explore. Some of it is used within our course: [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter).
 
 But there are also open source projects we work on:
-- [Flutter of the Year](https://github.com/hungrimind/flutter-of-the-year) - The largest collection of indie-built Flutter apps.
+- [Flutter of the Year](https://github.com/hungrimind/flutter-of-the-year) - A collection of indie-built Flutter apps.
 - [Sync Test](https://github.com/hungrimind/sync_test) - A command line tool to sync your test files to your `lib` files.
 
 Feel free to contribute to any repo and leave an issue on any of the repos!
