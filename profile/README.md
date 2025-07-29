@@ -4,7 +4,7 @@ First things first: HUNGRIMIND HUNGRIMIND HUNGRIMIND!
 
 This is the home of all the code produced by the Hungrimind team ([Tadas](https://x.com/tadaspetra) and [Robert](https://x.com/RobertBrunhage)).
 
-Our dream is to help you build stuff. We are trying to build a sustainable business (Hungrimind) so we can do this full-time. However, providing open-source resources is also at the core of our values.
+Our dream is to help you build good products. We are trying to build a sustainable business (Hungrimind) so we can do this full-time. However, providing open-source resources is also at the core of our values.
 
 Most of the code we write is open for you to explore. Some of it is used within our course: [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter).
 
